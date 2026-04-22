@@ -1,4 +1,4 @@
-# jj-integration-test
+# JJ Integration Test
 
 Commit 1.
 Commit 2.
